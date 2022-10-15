@@ -53,5 +53,5 @@ fn main() {
 ### Cargo.toml
 ```bash
 [dependencies]
-radix-trie = {git = "https://github.com/mingendo/radix-trie.git", branch="master"}
+radix-trie = {git = "https://github.com/mingendo/radix-trie.git", branch="main"}
 ```
