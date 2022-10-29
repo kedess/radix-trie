@@ -1,5 +1,8 @@
 ## radix-trie
 
+[![Build and Test](https://github.com/mingendo/radix-trie/actions/workflows/rust.yml/badge.svg)](https://github.com/mingendo/radix-trie/actions/workflows/rust.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Radix Tree (compressed prefix tree) is a data structure that is a memory-optimized implementation of a prefix tree.
 Algorithmic complexity for all operations (insert, delete, search) <b>O(n * log(k))</b>, where <b>n</b> is the length of the string at the input to the operation, <b>k</b> is the length of the alphabet.
 
